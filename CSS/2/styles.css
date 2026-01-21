@@ -1,0 +1,38 @@
+.body {
+    margin: 0%;
+    padding: 0%;
+}
+.wrap{
+    margin: 16px;
+
+}
+.panel {
+    width: 400px;
+    height: 400px;
+    background: rgb(18, 77, 57) ;
+    margin-bottom: 16px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: tomato;
+}
+.weird {
+      width: 400px;
+    height: 400px;
+    background: rgb(196, 97, 4) ;
+    margin-bottom: 16px;
+
+    border-width: 10px;
+    border-left-style: double ;
+    border-top-style: double;
+    border-right-style: double;
+    border-bottom-color: burlywood;
+    border-bottom-style: double;
+
+}
+.card {  
+      width: 400px;
+    height: 400px;
+    background: #ffee53 ;
+    margin-bottom: 16px; 
+    border: 5px solid blue; 
+}

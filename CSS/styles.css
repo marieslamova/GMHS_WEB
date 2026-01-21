@@ -1,0 +1,23 @@
+p{
+   color: rgb(153, 0, 255); 
+   font-size: 20px;
+}
+h1{
+    color: rgb(5, 98, 126);
+    text-align: center;
+}
+
+body {
+       background-color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div {
+      background-color: rgb(67, 41, 184);
+border-radius: 10px;
+}
+.info {
+    color: bisque;
+}
+#varování {
+    color: blue;
+}
