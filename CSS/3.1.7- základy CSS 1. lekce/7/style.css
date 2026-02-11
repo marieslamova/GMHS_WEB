@@ -1,33 +1,79 @@
+HTML {
+font-size: 12pt;
+font-family: "Love Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
 body {
     margin: 0px;
     padding: 0px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 .wrap {
     padding: 16px;
 }
 h1{
-    background-color: rgb(241, 72, 30);
+    background-color: rgb(199, 215, 216);
 }
 a {
-    background-color: rgb(228, 126, 58);
+    background-color: rgb(166, 99, 221);
 }
 .d1, .a1 {
     display: inline-block;
     border: 2px solid ;
     margin: 12px;;
     padding: 10px;
-    background-color: rgb(236, 209, 158);
+    background-color: rgb(247, 210, 131);
     width: 180px;
     height: 80px;
     margin-top: 80py;
-
-
 }
 
-
-
+.radius-box {
+    background: cadetblue;
+    width: 200px;
+    height: 200px;
+    color: rgb(23, 93, 95);
+    display: grid;
+    place-items: center;
+    border-radius: 200px;
+}
+.left {
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.justify{
+    text-align: justify;
+}
+.link{
+    text-decoration: none
+    
+}
+.h1{
+    font-size:  3rem;
+}
+.center-box{
+    background-color: burlywood;
+    width: 50%;
+    height: 300%;
+    margin: 0 auto;
+}
+.center-text{
+    background-color: maroon;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    
+}
 
 
 
